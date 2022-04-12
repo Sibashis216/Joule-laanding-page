@@ -1,0 +1,39 @@
+.thirdpage {
+    top: 302%;
+    position: absolute;
+}
+
+.corepara {
+    /* border: 2px solid #0a0a0a; */
+    width: 1196px;
+    left: 153px;
+    height: 566px;
+    top: 79px;
+    position: absolute;
+}
+.blocks{
+   
+    width: 370px;
+
+}
+.viewAllFeatures{
+    top: 126px;
+    bottom: 0px;
+    margin-top: 99px;
+    margin-left: -162px;
+    height: 37px;
+    width: 145px;
+    font-size: revert;
+    position: absolute;
+    color: #161616;
+    background-color: whitesmoke;
+    box-shadow: 4px 4px red;
+}
+.black-image{
+    top: 681px;
+    left: 0px;
+    width: 1349px;
+    height: 384px;
+    /* border: 2px solid blue; */
+    position: absolute;
+}

@@ -1,0 +1,66 @@
+.splitl {
+    height: 100%;
+    width: 35%;
+    position: fixed;
+    z-index: 1;
+    top: 0;
+    overflow-x: hidden;
+    padding-top: 20px;
+  }
+  
+  .left {
+    left: 0;
+    background-color: rgb(77, 21, 231);
+  }
+  
+  .right {
+    right: 0;
+    background-color: whitesmoke;
+  }
+  .color{
+    color: white;
+  }
+  .fa-facebook {
+    background: #3B5998;
+    color: white;
+  }
+  .fa-twitter {
+    background: #55ACEE;
+    color: white;
+  }
+  .fa-youtube {
+    background: #bb0000;
+    color: white;
+  }
+  .fa-dribbble {
+    background: #ea4c89;
+    color: white;
+  }
+  /* .iconsfa {
+    padding: 6px;
+    padding-left: 2px;
+    font-size: 30px;
+    width: 38px;
+    text-align: center;
+    text-decoration: none;
+    margin: 5px 2px;
+    margin-right: 124px;
+  } */
+  .iconsfa {
+    padding: 2px;
+  font-size: 30px;
+  width: 39px;
+  text-align: center;
+  text-decoration: none;
+  margin: 5px 6px;
+  }
+  /* .iconsta {
+    padding: 6px;
+    padding-left: 2px;
+    font-size: 30px;
+    width: 38px;
+    text-align: center;
+    text-decoration: none;
+    margin: 5px 2px;
+    margin-right: 124px;
+  } */

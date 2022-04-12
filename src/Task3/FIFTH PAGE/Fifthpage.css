@@ -1,0 +1,33 @@
+.fifthpage{
+    top: 4086px;
+    height: 136px;
+    width: 878px;
+    left: 225px;
+    position: absolute;
+    /* border: 2px solid green; */
+}
+.mobile-apps{
+   
+    left: 400px;
+    width: 116px;
+    top: 0px;
+    padding-top: 10px;
+    position: absolute;
+    color:black;
+}
+.paraa{
+    top: 92px;
+    left: 0px;
+    /* border: 2px solid; */
+    font-size: 12.5px;
+    width: 45%;
+    text-align: initial;
+    position: absolute;
+}
+.fifthimage{
+    /* border: 2px solid red; */
+    top: 118%;
+    width: 154%;
+    left: -228px;
+    position: absolute;
+}

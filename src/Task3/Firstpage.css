@@ -1,0 +1,79 @@
+.navbarcss{
+    color:black;
+    font-weight:bolder;
+    font-size: 12px;
+}
+.hello{
+    /* color: black;
+    height: 19%;
+    border: 6px solid red;
+    padding-top: 67px;
+    padding-left: 87‒;
+    padding-bottom: 74px;
+    padding-left: 22px;
+    margin-top: 139px;
+    margin-left: 99px;
+    margin-top: 0px;
+    margin-right: 455px;
+    padding-right: 35px;
+    width: 615px;
+    box-sizing: border-box; */
+
+
+    color: black;
+    /* border: 2px solid; */
+    width: 355px;
+    position: absolute;
+    left: 334px;
+    top: 172px;
+    text-align: -webkit-left;
+    height: 310px;
+
+}
+.slider{
+    width: 43px;
+    border: 2px solid rgb(8, 8, 8);
+    top: 277px;
+    left: 26px;
+    position: absolute;
+    box-sizing: border-bo;
+    height: 41px;
+}
+.sliderright{
+    width: 43px;
+    border: 2px solid rgb(10, 10, 10);
+    top: 277px;
+    left: 1293px;
+    position: absolute;
+    height: 41px;
+}
+.hii{
+    height: 605px;
+    width: 100%;
+    /* border: 2px solid red; */
+    position: absolute;
+    background-color: #d1eefb;
+}
+#read-more{
+    top: 251px;
+    bottom: 0px;
+    margin-top: 12px;
+    margin-left: -1px;
+    height: 37px;
+    width: 123px;
+    position: absolute;
+    font-size: revert;
+    color: #161616;
+    background-color: whitesmoke;
+    box-shadow: 4px 4px red;
+    border: 2px solid black;
+    
+}
+.CAROUSAL{
+    left: 50%;
+    top: 90%;
+    position: absolute;
+}
+h1{
+    font-weight: 700;
+}

@@ -1,0 +1,16 @@
+.box {
+    /* float: left; */
+
+    width: 20px;
+    height: 40px;
+    /* padding: 74px;
+    margin-bottom: 53px; */
+    border-radius: 10px;
+    background-color: rgb(255, 255, 255);
+  }
+  
+  .clearfix {
+    content: "";
+    clear: both;
+    display: table;
+  }

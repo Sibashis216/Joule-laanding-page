@@ -1,0 +1,52 @@
+.heading {
+    top: 66px;
+    left: 445px;
+    /* border: 2px solid red; */
+    width: 759px;
+    text-align: initial;
+    height: 395px;
+    position: absolute;
+}
+.paragraph{
+    display: flex;
+    flex-wrap: nowrap;
+    padding-left: 0px;
+    margin-top: 48px;
+    font-size: 15px;
+    z-index: 1;
+    padding-inline: 24px;
+    /* text-align: center; */
+}
+#read-more{
+    top: 251px;
+    bottom: 0px;
+    margin-top: 99px;
+    margin-left: -1px;
+    height: 37px;
+    width: 123px;
+    font-size: revert;
+    position: absolute;
+    color: #161616;
+    background-color: whitesmoke;
+    box-shadow: 4px 4px red;
+    /* border: 2px solid black; */
+    
+}
+.bottomtextpara {
+    top: 537px;
+    /* border: 2px solid; */
+    text-align: initial;
+    width: 1066px;
+    left: 139px;
+    position: absolute;
+}
+.image {
+    width: 1349px;
+    top: 696px;
+    left: 0;
+    position: absolute;
+}
+.secondpage {
+    top: 100%;
+    position: absolute;
+}
