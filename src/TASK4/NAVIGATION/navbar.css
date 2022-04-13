@@ -1,0 +1,8 @@
+.Navbar{
+    top: 0px;
+    position: absolute;
+    border: 2px solid red;
+}
+.Navbar-inner{
+    height: 50px;
+}

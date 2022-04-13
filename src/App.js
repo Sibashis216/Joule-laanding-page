@@ -8,6 +8,7 @@ import Duplicate from './Task2/Duplicate';
 // import Gridd from './Task2/Gridd';
 import Profile from './Task2/Profile';
 import TaskApp from './Task3/TaskApp';
+import Taskfour from './TASK4/Taskfour';
 
 function App() {
   return (
@@ -25,7 +26,8 @@ function App() {
 
 
                                               {/* TASK3 */}
-        <TaskApp />
+        {/* <TaskApp /> */}
+        <Taskfour/>
     </div>
   );
 }
